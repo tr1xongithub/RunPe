@@ -1,0 +1,8 @@
+﻿  RunPe.cpp
+C:\Users\frank\source\repos\RunPe\RunPe\map.h(33,14): warning C4244: 'argument': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\frank\source\repos\RunPe\RunPe\map.h(46,14): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(88,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LPVOID'
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(91,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LPVOID'
+  RunPe.vcxproj -> C:\Users\frank\source\repos\RunPe\Debug\RunPe.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

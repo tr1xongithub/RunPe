@@ -1,0 +1,17 @@
+﻿  RunPe.cpp
+C:\Users\frank\source\repos\RunPe\RunPe\map.h(46,14): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(74,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'DWORD64'
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(74,12): message : consider using '%lld' in the format string
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(74,12): message : consider using '%Id' in the format string
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(74,12): message : consider using '%I64d' in the format string
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(123,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'PVOID'
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(123,16): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'PVOID'
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(126,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'PVOID'
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(126,12): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'PVOID'
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(143,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'DWORD64'
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(143,16): message : consider using '%lld' in the format string
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(143,16): message : consider using '%Id' in the format string
+C:\Users\frank\source\repos\RunPe\RunPe\RunPe.cpp(143,16): message : consider using '%I64d' in the format string
+  RunPe.vcxproj -> C:\Users\frank\source\repos\RunPe\x64\Debug\RunPe.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
